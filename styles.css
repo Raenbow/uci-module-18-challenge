@@ -60,7 +60,7 @@ body {
 
   /* Universal Background */
   .main-bkgd {
-    background: #ffffff url(/images/gulp-bottom-beans.jpg) repeat-x bottom;
+    background: #ffffff url(images/gulp-bottom-beans.jpg) repeat-x bottom;
     padding-bottom: 300px;
   }
   .main {
